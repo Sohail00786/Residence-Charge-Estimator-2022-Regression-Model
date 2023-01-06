@@ -6,6 +6,11 @@
 
 - When i was on college i have also faced this issue while hunting residence and due to lack of information of that particular area resulted me to pay ₹ 1500 extra for the property which we have acquired for rent.
 
+
+## Approach:
+
+- The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
+
 ## Project Overview
 - Designed a Machine Learning Regression Model which is focused on charge of residence
 
@@ -13,7 +18,7 @@
 
 ## The models were evaluated on the basis of three metrics
 
-- R2score - 92.7%
+- R2score 
 - Mean Absolute Error
 - Mean Squared Error
 
@@ -29,10 +34,7 @@
 8. Gradient Boost Regression
 9. XGBoost Regression
 
-
-## Approach:
-
-- The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
+- Random Forest Regression model was the best model With an R2score of 92.7%
 
 
 ## Setup
