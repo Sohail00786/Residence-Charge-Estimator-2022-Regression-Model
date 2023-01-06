@@ -11,22 +11,23 @@
 
 - Main aim of this estimator is to display residence charge based on city, locality and residence features.
 
-- The models were evaluated on the basis of two metrics
+## The models were evaluated on the basis of three metrics
 
 - R2score - 92.7%
 - Mean Absolute Error
 - Mean Squared Error
-- The models tried out in this project are
 
-- 1. Linear Regression
-- 2. Lasso Regression
-- 3. Ridge Regression
-- 4. Elastic Net Regression
-- 5. Decision Tree Regression
-- 6. Random Forest Regression
-- 7. Adaboost Regression
-- 8. Gradient Boost Regression
-- 9. XGBoost Regression
+## The models tried out in this project are
+
+1. Linear Regression
+2. Lasso Regression
+3. Ridge Regression
+4. Elastic Net Regression
+5. Decision Tree Regression
+6. Random Forest Regression
+7. Adaboost Regression
+8. Gradient Boost Regression
+9. XGBoost Regression
 
 
 ## Approach:
