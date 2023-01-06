@@ -34,7 +34,7 @@
 8. Gradient Boost Regression
 9. XGBoost Regression
 
-- Random Forest Regression model was the best model With an R2score of 92.7%
+#### Random Forest Regression model was the best model With an R2score of 92.7%
 
 
 ## Setup
