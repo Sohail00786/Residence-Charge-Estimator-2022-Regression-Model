@@ -1,6 +1,6 @@
 # Residence Charge Estimator 2022 : Regression Model
 ## Web Application
-![Logo](https://github.com/Sohail00786/Residence-Charge-Estimator-2022-Regression-Model/blob/b120ef82c52e09be10cb65edd950188d25a025f2/Application%20.gif)
+![Logo](https://github.com/Sohail00786/Residence-Charge-Estimator-2022-Regression-Model/blob/ce862e93bdb2504bb13577309e4f67ecc26d80fe/Application%20.gif)
 ## Problem Statement
 - Lots of people migartes to new cities to make there professional and educational career and want to have residence not far away from there workplace and college.This Model will help them to figured out rent based on Locality they wants to acquire,model includes major cities like Chennai, Mumbai, Delhi, Hyderabad, Kolkata and Bangalore.
 
