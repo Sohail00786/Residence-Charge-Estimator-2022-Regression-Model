@@ -21,6 +21,7 @@
 - R2score 
 - Mean Absolute Error
 - Mean Squared Error
+- Residual
 
 ## The models tried out in this project are
 
